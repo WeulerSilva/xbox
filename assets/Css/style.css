@@ -1028,7 +1028,7 @@ header {
 
 @media (max-width: 550px) {
     .b2_recursos {
-        width: 100vw;
+        width: 96vw;
     }
     .buy_barra {
         width: 90px;
@@ -1072,6 +1072,15 @@ header {
     }
     .logodiv1 h1 {
         font-size: 38px;
+    }
+    .b2_description img {
+        width: min(100%, 120px);
+    }
+    .b2_description h3 {
+        padding: 10px;
+    }
+    .b2_description p {
+        font-size: 13px;
     }
 }
 
