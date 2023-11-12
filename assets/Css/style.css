@@ -1150,4 +1150,13 @@ header {
     .banner {
         background-position: -348px;
     }
+    .rec1-image {
+        background-position: -400px;
+    }
+    .rec1_text h3 {
+        font-size: 16px;
+    }
+    .rec1_text p {
+        font-size: 13px;
+    }
 }
